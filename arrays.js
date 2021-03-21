@@ -1,2 +1,3 @@
 let selcetedColors = ['red', 'blue']; //array literal empty 
-console.log(selcetedColors);
+selcetedColors[2]= 'green';
+console.log(selcetedColors[2]);
