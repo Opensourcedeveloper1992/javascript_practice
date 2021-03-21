@@ -10,7 +10,7 @@ let selectedColor = null;
 //es6 symbol covered later
 // javascript is dyanamically typed
 
-console.log(typeof selectedColor); 
+console.log(typeof selectedColor); // object type on selectedColor variable
 
 name =1; 
 console.log(typeof name);
