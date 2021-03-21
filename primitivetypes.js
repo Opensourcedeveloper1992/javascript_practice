@@ -10,7 +10,8 @@ let selectedColor = null;
 //es6 symbol covered later
 // javascript is dyanamically typed
 
-console.log(typeof name); 
+console.log(typeof selectedColor); 
 
 name =1; 
 console.log(typeof name);
+//javascript doens't have floats and ints only number
