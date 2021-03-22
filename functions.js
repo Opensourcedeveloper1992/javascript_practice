@@ -1,5 +1,9 @@
-function greet(){
-    console.log('Hello World');
-}
+function greet(name, lastName){
+    if(lastName==undefined){
+        lastName='no last name input';
+     }
+    console.log('Hello ' + name + " " +lastName);
 
-greet();
+}
+// name is parameter of greet
+greet('John', 'ping'); //john is argumennt for greet
