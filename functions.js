@@ -13,4 +13,5 @@ function square(number){
 //greet('John', 'ping'); //john is argumennt for greet
 let number = square(2);
 console.log(number);
+console.log(square(4));
 
